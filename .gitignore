@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pkl
+*.dta
+.DS_Store
+*.pyc
